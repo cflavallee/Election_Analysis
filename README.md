@@ -46,8 +46,8 @@ Based on these results, Denver had the largest voter turnout by a large margin.
 
 ## Overall Election Audit Summary
 
-The code used for this audit is very versatile and can be used for future elections.  By changing the document that is read, any information can be pullec into the script.  Additionally, you could also examine the county turnout based on registered voters for each county, which would adjust for per capita turnout percentage.
+The code used for this audit is very versatile and can be used for future elections.  By changing the document that is read(file_to_load), new election data can be pulled into the script.  Additionally, you could examine the county turnout based on registered voters for each county, which would adjust for per capita turnout percentage and give the largest turnout out based on population.  The number of registered voters would need to be documented and the code adjusted. 
 
-Another positive aspect of this code is that once the data is run through, it can be written to a text file, as seen below.  This allows for an easier view of the results. 
+Another positive aspect of this code is that once the data is run through, it can be written to a text file, as seen below.  This allows for an easier reading of the results. 
 
 ![overall results](https://github.com/cflavallee/Election_Analysis/blob/main/Resources/Overall%20Election%20Results.PNG)
