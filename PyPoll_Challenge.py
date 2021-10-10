@@ -105,7 +105,8 @@ with open(file_to_save, "w") as txt_file:
         voter_turnout_county = float(turnout_count) /float(total_votes)*100
         
          # 6d: Print the county results to the terminal.
-        county_results = (f'{counties_name}: {voter_turnout_county:.1f}% ({turnout_count:,})\n\n')
+        county_results = (
+            f'{counties_name}: {voter_turnout_county:.1f}% ({turnout_count:,})\n\n')
 
         print(county_results)
         
