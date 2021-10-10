@@ -14,18 +14,18 @@ An audit of the results of a local election was completed in order to find a num
 ## Summary of Results
 The following sections will address the election results based on our audit.
 
-    ### Total Votes and the Candidates
+    **### Total Votes and the Candidates**
 
     Overall, there were 369,711 votes cast in the election.  These votes were divided between 3 candidates:  Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane
 
-    ### The Candidates and Votes Received
+   ** ### The Candidates and Votes Received**
     The breakdown of votes received is as follows:
 
     - Charles Casper Stockham received 85,213 total votes, which was 23.0% of the total votes.
     - Diana DeGette received 272,892 total votes, which was 73.8% of the total votes.
     - Raymon Anthony Doane received 11,606 total votes, which was 310% of the total votes.
 
-    ### Winner of the Election
+    **### Winner of the Election**
     Based on these results the winnder of the election was Diana DeGette.
 
 ## Challenge Overview
@@ -35,12 +35,12 @@ The challenge was designed to find data regarding voter turnout for each county 
 ## Challenge Summary
 There were 3 counties that participated in the election:  Arapahoe, Denver, & Jefferson. 
 
-    ### Voter Turnout By County
+   ** ### Voter Turnout By County**
     - Arapahoe turned out 24,801 votes, which constituted 3.1% of the overall voter turnout
     - Denver turned out 306,055 votes, which constituted 82.8% of the overall voter turnout
     - Jefferson turned out 38,855 votes, which constituted 10.5% of the overall voter turnout
 
-    ### Largest Voter Turnout
+    **### Largest Voter Turnout**
     Based on these results, Denver had the largest voter turnout by a large margin.
 
 ## Overall Election Audit Summary
