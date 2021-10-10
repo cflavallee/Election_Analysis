@@ -25,8 +25,6 @@ The breakdown of votes received is as follows:
    - Diana DeGette received 272,892 total votes, which was 73.8% of the total votes.
    - Raymon Anthony Doane received 11,606 total votes, which was 310% of the total votes.
 
-![candidate numbers](https://github.com/cflavallee/Election_Analysis/blob/main/Resources/Candidate%20Numbers.PNG)
-
 ### Winner of the Election
 Based on these results the winnder of the election was Diana DeGette.
 
@@ -42,9 +40,14 @@ There were 3 counties that participated in the election:  Arapahoe, Denver, & Je
    - Denver turned out 306,055 votes, which constituted 82.8% of the overall voter turnout
    - Jefferson turned out 38,855 votes, which constituted 10.5% of the overall voter turnout
 
-![county turnout](https://github.com/cflavallee/Election_Analysis/blob/main/Resources/County%20Breakdown.PNG)
 
 ### Largest Voter Turnout
 Based on these results, Denver had the largest voter turnout by a large margin.
 
 ## Overall Election Audit Summary
+
+The code used for this audit is very versatile and can be used for future elections.  By changing the document that is read, any information can be pullec into the script.  Additionally, you could also examine the county turnout based on registered voters for each county, which would adjust for per capita turnout percentage.
+
+Another positive aspect of this code is that once the data is run through, it can be written to a text file, as seen below.  This allows for an easier view of the results. 
+
+![overall results](https://github.com/cflavallee/Election_Analysis/blob/main/Resources/Overall%20Election%20Results.PNG)
