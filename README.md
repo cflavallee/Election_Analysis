@@ -25,8 +25,8 @@ The breakdown of votes received is as follows:
    - Diana DeGette received 272,892 total votes, which was 73.8% of the total votes.
    - Raymon Anthony Doane received 11,606 total votes, which was 310% of the total votes.
 
-    **### Winner of the Election**
-    Based on these results the winnder of the election was Diana DeGette.
+### Winner of the Election
+Based on these results the winnder of the election was Diana DeGette.
 
 ## Challenge Overview
 The challenge was designed to find data regarding voter turnout for each county that participated in the election and to output the results in the terminal as well as write them to a text file. The data for each county was considered along with the overall 369,711 votes.
@@ -41,6 +41,6 @@ There were 3 counties that participated in the election:  Arapahoe, Denver, & Je
    - Jefferson turned out 38,855 votes, which constituted 10.5% of the overall voter turnout
 
 ### Largest Voter Turnout
-    Based on these results, Denver had the largest voter turnout by a large margin.
+Based on these results, Denver had the largest voter turnout by a large margin.
 
 ## Overall Election Audit Summary
